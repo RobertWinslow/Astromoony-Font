@@ -5,7 +5,7 @@
    version="1.1"
    viewBox="0 0 10 10"
    id="svg10"
-   sodipodi:docname="2643-31.svg"
+   sodipodi:docname="2643-49.svg"
    inkscape:version="1.1.2 (b8e25be833, 2022-02-05)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -41,23 +41,23 @@
      id="namedview12"
      showgrid="false"
      inkscape:zoom="13.844562"
-     inkscape:cx="17.335327"
-     inkscape:cy="23.94442"
+     inkscape:cx="17.335326"
+     inkscape:cy="23.944419"
      inkscape:current-layer="svg10"
      inkscape:pagecheckerboard="0"
      inkscape:document-units="mm" />
   <path
      style="opacity:0.999;fill:none;stroke:#b22222;stroke-width:0.8;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;paint-order:stroke fill markers"
-     d="m 3.75,8.1000002 h 2.5"
+     d="m 3.75,7.6 h 2.5"
      id="path1020-8"
      sodipodi:nodetypes="cc" />
   <path
      style="opacity:0.999;fill:none;stroke:#8b0000;stroke-width:0.8;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;paint-order:stroke fill markers"
-     d="m 2.5,6.4 h 5"
+     d="m 2.5,5.9 h 5"
      id="path1014" />
   <path
      style="opacity:0.999;fill:none;stroke:#ff0000;stroke-width:0.8;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;paint-order:stroke fill markers"
-     d="M 4.9999998,1 V 8.5000002"
+     d="m 4.9999998,1.5 v 6"
      id="path1016"
      sodipodi:nodetypes="cc" />
   <path
