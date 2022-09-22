@@ -40,25 +40,15 @@
      inkscape:window-height="480"
      id="namedview12"
      showgrid="false"
-     inkscape:zoom="31.999998"
-     inkscape:cx="20.093751"
-     inkscape:cy="13.171876"
+     inkscape:zoom="3.9999998"
+     inkscape:cx="11.000001"
+     inkscape:cy="47.875003"
      inkscape:current-layer="svg10"
      inkscape:document-rotation="0"
      inkscape:pagecheckerboard="0"
      inkscape:document-units="mm" />
   <path
-     style="opacity:0.999;fill:none;stroke:#ff0000;stroke-width:0.799995;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;paint-order:stroke fill markers"
-     d="M 2,9.3503891 H 8"
-     id="path1038-9-4" />
-  <path
-     d="m 6.2209779,9.3499997 c -0.3496863,0 -1.016521,-0.2494407 -1.016521,-1.0155998 0,-0.6361931 1.1382936,-1.5035681 1.1382936,-2.4947241 0,-1.4059407 -1.0112324,-1.5944408 -1.371177,-1.5944408 -0.5159755,0 -1.3099031,0.4291596 -1.5971579,1.4816151"
-     style="opacity:0.999;fill:none;stroke:#191970;stroke-width:0.8;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;paint-order:stroke fill markers"
-     id="path6"
-     sodipodi:nodetypes="csssc" />
-  <path
      id="path17435-8"
      style="fill:none;stroke:#00ced1;stroke-width:0.8;stroke-miterlimit:10;paint-order:stroke fill markers"
-     transform="scale(-1,1)"
-     d="m -7.6284269,3.548566 a 1.3500005,2.3113456 0 0 1 1.5030107,-1.4857043 1.3500005,2.3113456 0 0 1 1.1155754,2.276231 m 2.6382679,-0.7866486 a -1.3500005,2.3113456 0 0 0 -1.5030106,-1.4857043 -1.3500005,2.3113456 0 0 0 -1.1155754,2.276231" />
+     d="M 4.990159,3.5925817 A 1.3500005,2.3113456 0 0 0 3.8745836,1.3163507 1.3500005,2.3113456 0 0 0 2.371573,2.802055 M 5.0098409,3.5887036 A 1.3500005,2.3113456 0 0 1 6.1254163,1.3124726 1.3500005,2.3113456 0 0 1 7.628427,2.7981769 M 6.220978,8.5996106 c -0.3496863,0 -1.016521,-0.2494407 -1.016521,-1.0155998 0,-0.6361931 1.1382936,-1.5035681 1.1382936,-2.4947241 0,-1.4059407 -1.0112324,-1.5944408 -1.371177,-1.5944408 -0.5159755,0 -1.3099031,0.4291596 -1.5971579,1.4816151 M 2.0000001,8.6 h 6" />
 </svg>
