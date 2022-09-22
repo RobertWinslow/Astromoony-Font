@@ -48,26 +48,26 @@
      inkscape:document-units="mm" />
   <path
      style="opacity:0.999;fill:#008000;stroke:#ff0000;stroke-width:0.8;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;paint-order:stroke fill markers"
-     d="M 5.0000001,7 V 1"
+     d="m 5.0014606,7.5 v -6"
      id="path864-6"
      sodipodi:nodetypes="cc" />
   <path
      style="opacity:0.999;fill:#008000;stroke:#ff0000;stroke-width:0.8;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;paint-order:stroke fill markers"
-     d="M 7.8499999,7 V 0.5"
+     d="M 7.8500001,8.0000002 V 1"
      id="path864-6-33"
      sodipodi:nodetypes="cc" />
   <path
      style="opacity:0.999;fill:#008000;stroke:#ff0000;stroke-width:0.8;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;paint-order:stroke fill markers"
-     d="M 2.1500003,7 V 0.49999998"
+     d="M 2.1500003,8.0000002 V 1"
      id="path864-6-4"
      sodipodi:nodetypes="cc" />
   <path
      style="opacity:0.999;fill:#008000;stroke:#8b0000;stroke-width:0.8;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;paint-order:stroke fill markers"
-     d="M 1.7500003,3.75 H 8.2499999"
+     d="M 1.7500003,4.5000001 H 8.2499999"
      id="path864-6-3"
      sodipodi:nodetypes="cc" />
   <path
      id="path886"
      style="opacity:0.999;fill:none;stroke:#008000;stroke-width:0.8;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;paint-order:stroke fill markers"
-     d="M 6.35,8.2482302 A 1.35,1.3517698 0 0 1 5.0000001,9.6 1.35,1.3517698 0 0 1 3.65,8.2482302 1.35,1.3517698 0 0 1 5.0000001,6.8964604 1.35,1.3517698 0 0 1 6.35,8.2482302 Z" />
+     d="M 6.1,8.498483 A 1.1,1.101517 0 0 1 5.0000001,9.6 1.1,1.101517 0 0 1 3.9,8.498483 1.1,1.101517 0 0 1 5.0000001,7.3969661 1.1,1.101517 0 0 1 6.1,8.498483 Z" />
 </svg>

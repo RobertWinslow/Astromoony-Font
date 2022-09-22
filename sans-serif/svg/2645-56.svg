@@ -5,7 +5,7 @@
    version="1.1"
    viewBox="0 0 10 10"
    id="svg10"
-   sodipodi:docname="2645-35.svg"
+   sodipodi:docname="2645-56.svg"
    inkscape:version="1.1.2 (b8e25be833, 2022-02-05)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -40,16 +40,16 @@
      inkscape:window-height="480"
      id="namedview12"
      showgrid="false"
-     inkscape:zoom="6.9222807"
-     inkscape:cx="-16.974174"
-     inkscape:cy="-8.3065109"
+     inkscape:zoom="1.7305702"
+     inkscape:cx="68.474542"
+     inkscape:cy="-125.68112"
      inkscape:current-layer="svg10"
      inkscape:document-rotation="0"
      inkscape:pagecheckerboard="0"
      inkscape:document-units="mm" />
   <path
-     style="opacity:0.999;fill:#6b8e23;stroke:#008000;stroke-width:0.8;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;paint-order:stroke fill markers"
-     d="M 4.9999999,7.0048405 V 4.5706733"
+     style="opacity:0.999;fill:#6b8e23;stroke:#ff0000;stroke-width:0.8;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;paint-order:stroke fill markers"
+     d="m 4.9999999,7.0706733 v -2.5"
      id="path864-6"
      sodipodi:nodetypes="cc" />
   <path
@@ -57,8 +57,8 @@
      style="opacity:0.999;fill:none;stroke:#008000;stroke-width:0.8;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;paint-order:stroke fill markers"
      d="M 6.1703287,8.1780829 A 1.1703288,1.1719169 0 0 1 5,9.3499998 1.1703288,1.1719169 0 0 1 3.8296711,8.1780829 1.1703288,1.1719169 0 0 1 5,7.006166 1.1703288,1.1719169 0 0 1 6.1703287,8.1780829 Z" />
   <path
-     style="opacity:0.999;fill:none;stroke:#800000;stroke-width:0.8;stroke-miterlimit:4;stroke-dasharray:none;paint-order:markers fill stroke"
-     d="M 2.2193527,5.3461913 V 1.7766837 L 4.9999999,4.5706733 7.7806472,1.7766837 v 3.5695076"
+     style="opacity:0.999;fill:none;stroke:#800000;stroke-width:0.8;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;paint-order:markers fill stroke"
+     d="M 2.2193527,5.5384712 V 1.9689636 L 4.9999999,4.7629532 7.7806472,1.9689636 v 3.5695076"
      id="path9"
      sodipodi:nodetypes="ccccc" />
 </svg>
