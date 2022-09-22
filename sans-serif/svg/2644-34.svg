@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="10mm"
+   height="10mm"
+   version="1.1"
+   viewBox="0 0 10 10"
+   id="svg10"
+   sodipodi:docname="2644-34.svg"
+   inkscape:version="1.1.2 (b8e25be833, 2022-02-05)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <metadata
+     id="metadata16">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs14" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="640"
+     inkscape:window-height="480"
+     id="namedview12"
+     showgrid="false"
+     inkscape:zoom="8.0000001"
+     inkscape:cx="-21.1875"
+     inkscape:cy="24.9375"
+     inkscape:current-layer="svg10"
+     inkscape:document-rotation="0"
+     showguides="false"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm" />
+  <path
+     d="m 6.2456544,8.7231762 c -0.3246512,0 -0.9437449,-0.2332787 -0.9437449,-0.9497962 0,-0.5949723 1.0567994,-1.4061476 1.0567994,-2.3330839 0,-1.3148457 -0.9388349,-1.4911324 -1.2730099,-1.4911324 -0.4790352,0 -1.2161228,0.4013531 -1.4828121,1.385617 H 1.2156842 l 3.7843156,-3.887064 3.7843157,3.887064 H 6.3670734"
+     style="opacity:0.999;fill:none;stroke:#0000ff;stroke-width:0.8;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;paint-order:stroke fill markers"
+     id="path6"
+     sodipodi:nodetypes="csssccccc" />
+</svg>

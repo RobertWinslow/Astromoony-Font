@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="10mm"
+   height="10mm"
+   version="1.1"
+   viewBox="0 0 10 10"
+   id="svg10"
+   sodipodi:docname="2642-31.svg"
+   inkscape:version="1.1.2 (b8e25be833, 2022-02-05)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <metadata
+     id="metadata16">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs14" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="640"
+     inkscape:window-height="480"
+     id="namedview12"
+     showgrid="false"
+     inkscape:zoom="13.844562"
+     inkscape:cx="16.540791"
+     inkscape:cy="10.509542"
+     inkscape:current-layer="svg10"
+     inkscape:document-rotation="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm" />
+  <path
+     id="path886-9"
+     style="opacity:0.999;fill:none;stroke:#008000;stroke-width:0.8;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;paint-order:stroke fill markers"
+     d="M 7.0971668,5.4999999 A 2.0971669,2.0999999 0 0 1 5,7.5999998 2.0971669,2.0999999 0 0 1 2.9028332,5.4999999 2.0971669,2.0999999 0 0 1 5,3.4 2.0971669,2.0999999 0 0 1 7.0971668,5.4999999 Z" />
+  <path
+     style="opacity:0.999;fill:#ffffff;stroke:#ff8c00;stroke-width:0.8;stroke-miterlimit:4;stroke-dasharray:none;paint-order:markers fill stroke"
+     d="M 5,1.1368911 V 9.5"
+     id="path18" />
+  <path
+     style="fill:none;stroke:#ff8c00;stroke-width:0.8;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;paint-order:stroke fill markers"
+     d="M 3.0615492,2.3887102 5,0.89998957 6.9384509,2.3887102"
+     id="path1059"
+     sodipodi:nodetypes="ccc" />
+</svg>
