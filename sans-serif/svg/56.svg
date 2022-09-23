@@ -41,14 +41,24 @@
      id="namedview12"
      showgrid="false"
      inkscape:zoom="13.844562"
-     inkscape:cx="42.038167"
-     inkscape:cy="17.877056"
+     inkscape:cx="42.038166"
+     inkscape:cy="17.877055"
      inkscape:current-layer="svg10"
      inkscape:pagecheckerboard="0"
      inkscape:document-units="mm" />
   <path
      style="fill:none;stroke:#4169e1;stroke-width:0.8;stroke-linejoin:bevel;stroke-miterlimit:10;stroke-dasharray:none;paint-order:stroke fill markers"
-     d="M 2.8266429,1.0093784 4.9454076,7.8821593 7.0641724,1.0093784"
+     d="M 2.8266429,1.5 4.9454076,7.8821593 7.0641724,1.5"
      id="path857"
      sodipodi:nodetypes="ccc" />
+  <path
+     style="opacity:0.999;fill:none;stroke:#a52a2a;stroke-width:0.8;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;paint-order:stroke fill markers"
+     d="m 1.8,1.4 h 2"
+     id="path1020"
+     sodipodi:nodetypes="cc" />
+  <path
+     style="opacity:0.999;fill:none;stroke:#a52a2a;stroke-width:0.8;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;paint-order:stroke fill markers"
+     d="m 6.2,1.4 h 2"
+     id="path830"
+     sodipodi:nodetypes="cc" />
 </svg>
