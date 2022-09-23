@@ -5,7 +5,7 @@
    version="1.1"
    viewBox="0 0 10 10"
    id="svg10"
-   sodipodi:docname="2642-49.svg"
+   sodipodi:docname="1F728.svg"
    inkscape:version="1.1.2 (b8e25be833, 2022-02-05)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -40,27 +40,24 @@
      inkscape:window-height="480"
      id="namedview12"
      showgrid="false"
-     inkscape:zoom="16"
-     inkscape:cx="10.4375"
-     inkscape:cy="21.65625"
+     inkscape:zoom="6.922281"
+     inkscape:cx="29.470055"
+     inkscape:cy="12.929264"
      inkscape:current-layer="svg10"
      inkscape:document-rotation="0"
+     showguides="true"
      inkscape:pagecheckerboard="0"
      inkscape:document-units="mm" />
   <path
-     id="path886-9"
+     id="path886-9-8"
      style="opacity:0.999;fill:none;stroke:#008000;stroke-width:0.8;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;paint-order:stroke fill markers"
-     d="M 6.6,6 A 1.6000001,1.6 0 0 1 5,7.6 1.6000001,1.6 0 0 1 3.4,6 1.6000001,1.6 0 0 1 5,4.4 1.6000001,1.6 0 0 1 6.6,6 Z" />
+     d="M 8.1,4.5 A 3.0999998,3.1 0 0 0 5.0000004,1.4 3.0999998,3.1 0 0 0 1.9,4.5 3.0999998,3.1 0 0 0 5.0000004,7.6 3.0999998,3.1 0 0 0 8.1,4.5 Z" />
   <path
-     style="opacity:0.999;fill:#ffffff;stroke:#ff0000;stroke-width:0.800003;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;paint-order:markers fill stroke"
-     d="m 4.9999998,9.065685 3e-7,-7.4999997"
-     id="path18-0-9" />
+     style="fill:none;stroke:#ff0000;stroke-width:0.800002;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;paint-order:stroke fill markers"
+     d="m 5,7.5 v -6"
+     id="path945" />
   <path
-     style="fill:none;stroke:#ff6347;stroke-width:0.8;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;paint-order:stroke fill markers"
-     d="M 5.0000001,1.5656854 6.2277694,2.7934548"
-     id="path3282" />
-  <path
-     style="fill:none;stroke:#ff4500;stroke-width:0.8;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;paint-order:stroke fill markers"
-     d="M 5.0000001,1.5656854 3.7722306,2.7934547"
-     id="path3282-1" />
+     style="fill:none;stroke:#8b0000;stroke-width:0.800002;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;paint-order:stroke fill markers"
+     d="M 2,4.5 H 8"
+     id="path1558" />
 </svg>

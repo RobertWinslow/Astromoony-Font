@@ -37,10 +37,10 @@ GLYPHHEIGHT = 1000 # font units, default = 1000
 PORTIONABOVEBASELINE = 0.8 # default is 0.8
 # The following parameter sets the spacing between characters. 
 # It is made redundant by MONOSPACEWIDTH if that parameter is set.
-SEPARATION = 100
+SEPARATION = 50
 # If the following parameter is set to a positive integer, all characters are set to that width.
 # Set it to 0 or None to make the font non-monospaced.
-MONOSPACEWIDTH = 1000
+MONOSPACEWIDTH = 0
 # If the following parameter is set to a positive integer, all characters wider than this are scaled down.
 # Set it to 0 or None to allow characters to be extra wide.
 # If MAXWIDTH is unset, but MONOSPACEWIDTH is set, then some glyphs may have contours outside of their bounding box.

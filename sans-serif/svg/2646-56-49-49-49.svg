@@ -3,7 +3,7 @@
    version="1.1"
    viewBox="0 0 10 10"
    id="svg10"
-   sodipodi:docname="2646-49.svg"
+   sodipodi:docname="2646-56-49-49-49.svg"
    inkscape:version="1.1.2 (b8e25be833, 2022-02-05)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -21,9 +21,9 @@
      inkscape:pagecheckerboard="0"
      showgrid="false"
      inkscape:lockguides="true"
-     inkscape:zoom="67.1"
-     inkscape:cx="4.7988077"
-     inkscape:cy="4.1356185"
+     inkscape:zoom="47.446865"
+     inkscape:cx="0.16860966"
+     inkscape:cy="5.0055994"
      inkscape:current-layer="g8" />
   <g
      transform="matrix(.82 0 0 .82333 .08 .06)"
@@ -31,39 +31,37 @@
      stroke-miterlimit="10"
      id="g8">
     <path
-       d="M 6,9.6437638 V 1.141705"
-       fill="#bdb76b"
-       stroke="#ff0000"
-       stroke-width="0.973625"
-       id="path2" />
-    <path
-       d="M 1.7317071,4.786427 H 10.268293"
+       d="M 1.7317071,7.2155867 H 10.268293"
        fill="none"
        stroke="#000000"
        stroke-width="0.973629"
        id="path4-1"
-       style="stroke:#ff8c00" />
+       style="stroke:#800000" />
     <path
-       d="M 2.8282785,1.7489949 V 3.5708646"
-       fill="none"
-       stroke="#000000"
-       stroke-width="0.973635"
-       id="path4-2"
-       style="stroke:#ff4500" />
-    <path
-       d="M 9.1717216,1.7489949 V 3.5708646"
-       fill="none"
-       stroke="#000000"
-       stroke-width="0.973635"
-       id="path4-2-2"
-       style="stroke:#ff4500" />
-    <path
-       d="m 2.8282785,3.5708647 c 0,2.0703 1.4206775,3.75 3.1717216,3.75 1.751044,0 3.1717215,-1.6797 3.1717215,-3.75"
+       d="m 2.8282785,1.7489949 c 0,2.0703 1.4206775,3.75 3.1717216,3.75 1.751044,0 3.1717215,-1.6797 3.1717215,-3.75"
        fill="none"
        stroke="#ff8c00"
        stroke-linecap="square"
        stroke-width="0.973627"
        id="path6"
-       style="stroke-linecap:butt;stroke:#4169e1" />
+       style="stroke:#4169e1;stroke-linecap:butt" />
+    <path
+       d="M 6,7.2146041 V 1.141705"
+       fill="#bdb76b"
+       stroke="#ff0000"
+       stroke-width="0.973625"
+       id="path2" />
+    <path
+       d="M 3.438032,9.6437637 V 7.2146041"
+       fill="#bdb76b"
+       stroke="#ff0000"
+       stroke-width="0.973624"
+       id="path2-6" />
+    <path
+       d="M 8.5599827,9.6437637 V 7.2146041"
+       fill="#bdb76b"
+       stroke="#ff0000"
+       stroke-width="0.973624"
+       id="path940" />
   </g>
 </svg>
