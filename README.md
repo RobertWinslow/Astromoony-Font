@@ -10,7 +10,7 @@ The characters
 
 ## Downloads
 
-[Astromoony 1.0](/sans-serif/Astromoony Sans.ttf)
+[Astromoony Sans-serif 1.0](https://github.com/RobertWinslow/Astromoony-Font/blob/main/sans-serif/Astromoony%20Sans.ttf)
 
 
 ## Current Symbol Coverage
