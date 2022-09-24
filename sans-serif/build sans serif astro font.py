@@ -22,7 +22,7 @@ import fontforge
 import os
 
 INPUTFOLDER = 'svg'
-OUTPUTFILENAME = 'Astromoony Sans.ttf'
+OUTPUTFILENAME = 'AstromoonySans.ttf'
 PLACEHOLDERGEOMETRYSVG = 'svg/25A1.svg'
 
 font = fontforge.font()
