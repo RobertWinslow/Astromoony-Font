@@ -31,24 +31,20 @@
      stroke-linejoin="round"
      stroke-miterlimit="10"
      id="g8">
-    <g
-       id="g3758"
-       transform="translate(0.4134127)">
-      <path
-         id="path1959"
-         style="fill:none;stroke:#bdb76b;stroke-width:0.973637;stroke-linecap:round;stroke-linejoin:miter;paint-order:stroke fill markers"
-         d="M 3.1322857,2.204155 4.7216787,5.2873431 3.1322855,8.5360166 1.542892,5.287342 Z"
-         sodipodi:nodetypes="ccccc" />
-      <path
-         style="fill:none;stroke:#8b0000;stroke-width:0.973635;stroke-linecap:round;stroke-miterlimit:10;stroke-dasharray:none;paint-order:stroke fill markers"
-         d="M 4.7585366,5.2336244 6.2389161,3.759017 7.9635667,5.4766922 9.6882174,3.759017"
-         id="path1632"
-         sodipodi:nodetypes="cccc" />
-      <path
-         style="fill:none;stroke:#8b0000;stroke-width:0.973635;stroke-linecap:round;stroke-miterlimit:10;stroke-dasharray:none;paint-order:stroke fill markers"
-         d="M 3.9829268,3.7105413 6.0734548,1.6285025 7.7981054,3.3461777 9.5227561,1.6285025"
-         id="path1632-6"
-         sodipodi:nodetypes="cccc" />
-    </g>
+    <path
+       id="path1959"
+       style="fill:none;stroke:#bdb76b;stroke-width:0.973637;stroke-linecap:round;stroke-linejoin:miter;paint-order:stroke fill markers"
+       d="M 3.5456984,2.204155 5.1350914,5.2873431 3.5456982,8.5360166 1.9563047,5.287342 Z"
+       sodipodi:nodetypes="ccccc" />
+    <path
+       style="fill:none;stroke:#8b0000;stroke-width:0.973635;stroke-linecap:round;stroke-miterlimit:10;stroke-dasharray:none;paint-order:stroke fill markers"
+       d="M 5.1719493,5.2336244 6.6523288,3.759017 8.3769794,5.4766922 10.10163,3.759017"
+       id="path1632"
+       sodipodi:nodetypes="cccc" />
+    <path
+       style="fill:none;stroke:#8b0000;stroke-width:0.973635;stroke-linecap:round;stroke-miterlimit:10;stroke-dasharray:none;paint-order:stroke fill markers"
+       d="M 4.3963395,3.7105413 6.4868675,1.6285025 8.2115181,3.3461777 9.9361688,1.6285025"
+       id="path1632-6"
+       sodipodi:nodetypes="cccc" />
   </g>
 </svg>
