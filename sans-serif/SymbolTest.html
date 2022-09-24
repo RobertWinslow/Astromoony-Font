@@ -3,7 +3,7 @@
 <style>
     @font-face {
     font-family: astrosymbols;
-    src: url("Astrosymbols Sans.ttf");
+    src: url("Astromoony Sans.ttf");
     }
     .astro {
         font-family: astrosymbols;
@@ -12,16 +12,417 @@
     .astrotable td:nth-child(1) {
         font-family: astrosymbols;
         color: red;
-        text-align: right;
+        text-align: center;
+        font-size: xx-large;
     }
     .astrotable td:nth-child(2) {
         text-align: left;
+    }
+    .astrotable td:nth-child(3), .astrotable td:nth-child(4) {
+        text-align: center;
+    }
+    .MajorPlanetRow {
+        background-color: blanchedalmond;
+    }
+    .DwarfPlanetRow {
+        background-color:aquamarine;
+    }
+    .MoonRow {
+        background-color:cornsilk;
     }
 </style>
 </head>
 <body>
 
-    
+
+
+
+
+
+<table class="astrotable">
+    <thead>
+    <tr>
+        <th>Symbol</th>
+        <th>Object Name</th>
+        <th>No Font</th>
+        <th>Codepoint(s)</th>
+    </tr>
+    </thead>
+    <tbody>
+        <tr class="MajorPlanetRow">
+            <td>☉︎</td>
+            <td>Sol, The Sun</td>
+            <td>☉︎</td>
+            <td>2609</td>
+        </tr>
+        <tr class="MajorPlanetRow">
+            <td>☿</td>
+            <td>Mercury</td>
+            <td>☿</td>
+            <td>263F</td>
+        </tr>
+        <tr class="MajorPlanetRow">
+            <td>♀</td>
+            <td>Venus</td>
+            <td>♀</td>
+            <td>2640</td>
+        </tr>
+        <tr class="MajorPlanetRow">
+            <td>🜨</td>
+            <td>Terra, The Earth</td>
+            <td>🜨</td>
+            <td>1F728</td>
+        </tr>
+        <tr class="MajorPlanetRow">
+            <td>☾</td>
+            <td>Luna, The Moon (Terra I)</td>
+            <td>☾</td>
+            <td>263e</td>
+        </tr>
+        <tr class="MajorPlanetRow">
+            <td>♁</td>
+            <td>Terra (Alternate)</td>
+            <td>♁</td>
+            <td>2641</td>
+        </tr>
+        <tr class="MajorPlanetRow">
+            <td>♂</td>
+            <td>Mars</td>
+            <td>♂</td>
+            <td>2642</td>
+        </tr>
+        <tr class="MoonRow">
+            <td>♂I</td>
+            <td>Phobos (Mars I)</td>
+            <td>♂I</td>
+            <td>2642-49</td>
+        </tr>
+        <tr class="MoonRow">
+            <td>♂II</td>
+            <td>Deimos (Mars II)</td>
+            <td>♂II</td>
+            <td>2642-49</td>
+        </tr>
+        <tr class="DwarfPlanetRow">
+            <td>⚳</td>
+            <td>Ceres</td>
+            <td>⚳</td>
+            <td>26B3</td>
+        </tr>
+        <tr class="MinorPlanetRow">
+            <td>⚴</td>
+            <td>2 Pallas</td>
+            <td>⚴</td>
+            <td>26B4</td>
+        </tr>
+        <tr class="MinorPlanetRow">
+            <td>⚵</td>
+            <td>3 Juno</td>
+            <td>⚵</td>
+            <td>26B5</td>
+        </tr>
+        <tr class="MinorPlanetRow">
+            <td>⚶</td>
+            <td>4 Vesta</td>
+            <td>⚶</td>
+            <td>26B6</td>
+        </tr>
+        <tr class="MajorPlanetRow">
+            <td>♃</td>
+            <td>Jupiter</td>
+            <td>♃</td>
+            <td>2643</td>
+        </tr>
+        <tr class="MoonRow">
+            <td>♃I</td>
+            <td>Io (Jupiter I)</td>
+            <td>♃I</td>
+            <td>2643-49</td>
+        </tr>
+        <tr class="MoonRow">
+            <td>♃II</td>
+            <td>Europa (Jupiter II)</td>
+            <td>♃II</td>
+            <td>2643-49-49</td>
+        </tr>
+        <tr class="MoonRow">
+            <td>♃III</td>
+            <td>Ganymede (Jupiter III)</td>
+            <td>♃III</td>
+            <td>2643-49-49-49</td>
+        </tr>
+        <tr class="MoonRow">
+            <td>♃IV</td>
+            <td>Callisto (Jupiter IV)</td>
+            <td>♃IV</td>
+            <td>2643-49-56</td>
+        </tr>
+        <tr class="MajorPlanetRow">
+            <td>♄</td>
+            <td>Saturn</td>
+            <td>♄</td>
+            <td>2644</td>
+        </tr>
+        <tr class="MoonRow">
+            <td>♄I</td>
+            <td>Mimas (Saturn I)</td>
+            <td>♄I</td>
+            <td>2644-49</td>
+        </tr>
+        <tr class="MoonRow">
+            <td>♄II</td>
+            <td>Enceladus (Saturn II)</td>
+            <td>♄II</td>
+            <td>2644-49-49</td>
+        </tr>
+        <tr class="MoonRow">
+            <td>♄III</td>
+            <td>Tethys (Saturn III)</td>
+            <td>♄III</td>
+            <td>2644-49-49-49-49</td>
+        </tr>
+        <tr class="MoonRow">
+            <td>♄IV</td>
+            <td>Dione (Saturn IV)</td>
+            <td>♄IV</td>
+            <td>2644-49-56</td>
+        </tr>
+        <tr class="MoonRow">
+            <td>♄V</td>
+            <td>Rhea (Saturn V)</td>
+            <td>♄V</td>
+            <td>2644-56</td>
+        </tr>
+        <tr class="MoonRow">
+            <td>♄VI</td>
+            <td>Titan (Saturn VI)</td>
+            <td>♄VI</td>
+            <td>2644-56-49</td>
+        </tr>
+        <tr class="MoonRow">
+            <td>♄VII</td>
+            <td>Hyperion (Saturn VII)</td>
+            <td>♄VII</td>
+            <td>2644-56-49-49</td>
+        </tr>
+        <tr class="MoonRow">
+            <td>♄VIII</td>
+            <td>Iapetus (Saturn VIII)</td>
+            <td>♄VIII</td>
+            <td>2644-56-49-49-49</td>
+        </tr>
+        <tr class="MajorPlanetRow">
+            <td>♅</td>
+            <td>Uranus</td>
+            <td>♅</td>
+            <td>2645</td>
+        </tr>
+        <tr class="MoonRow">
+            <td>♅V</td>
+            <td>Miranda (Uranus V)</td>
+            <td>♅V</td>
+            <td>2645-56</td>
+        </tr>
+        <tr class="MoonRow">
+            <td>♅I</td>
+            <td>Ariel (Uranus I)</td>
+            <td>♅I</td>
+            <td>2645-49</td>
+        </tr>
+        <tr class="MoonRow">
+            <td>♅II</td>
+            <td>Umbriel (Uranus II)</td>
+            <td>♅II</td>
+            <td>2645-49-49</td>
+        </tr>
+        <tr class="MoonRow">
+            <td>♅III</td>
+            <td>Titania (Uranus III)</td>
+            <td>♅III</td>
+            <td>2645-49-49-49</td>
+        </tr>
+        <tr class="MoonRow">
+            <td>♅IV</td>
+            <td>Oberon (Uranus IV)</td>
+            <td>♅IV</td>
+            <td>2645-49-56</td>
+        </tr>
+        <tr class="MajorPlanetRow">
+            <td>⛢</td>
+            <td>Uranus (Alternate)</td>
+            <td>⛢</td>
+            <td>26E2</td>
+        </tr>
+        <tr class="MoonRow">
+            <td>⛢V</td>
+            <td>Miranda (Uranus V) (Alternate)</td>
+            <td>⛢V</td>
+            <td>26E2-56</td>
+        </tr>
+        <tr class="MoonRow">
+            <td>⛢I</td>
+            <td>Ariel (Uranus I) (Alternate)</td>
+            <td>⛢I</td>
+            <td>26E2-49</td>
+        </tr>
+        <tr class="MoonRow">
+            <td>⛢II</td>
+            <td>Umbriel (Uranus II) (Alternate)</td>
+            <td>⛢II</td>
+            <td>26E2-49-49</td>
+        </tr>
+        <tr class="MoonRow">
+            <td>⛢III</td>
+            <td>Titania (Uranus III) (Alternate)</td>
+            <td>⛢III</td>
+            <td>26E2-49-49-49</td>
+        </tr>
+        <tr class="MoonRow">
+            <td>⛢IV</td>
+            <td>Oberon (Uranus IV) (Alternate)</td>
+            <td>⛢IV</td>
+            <td>26E2-49-56</td>
+        </tr>
+        <tr class="MajorPlanetRow">
+            <td>♆</td>
+            <td>Neptune</td>
+            <td>♆</td>
+            <td>2646</td>
+        </tr>
+        <tr class="MoonRow">
+            <td>♆I</td>
+            <td>Triton (Neptune I)</td>
+            <td>♆I</td>
+            <td>2645-49</td>
+        </tr>
+        <tr class="MoonRow">
+            <td>♆II</td>
+            <td>Nereid (Neptune II)</td>
+            <td>♆II</td>
+            <td>2645-49-49</td>
+        </tr>
+        <tr class="MoonRow">
+            <td>♆VIII</td>
+            <td>Proteus (Neptune VIII)</td>
+            <td>♆VIII</td>
+            <td>2645-56-49-49-49</td>
+        </tr>
+        <tr class="MajorPlanetRow">
+            <td>⯉</td>
+            <td>Neptune (Alternate)</td>
+            <td>⯉</td>
+            <td>2BC9</td>
+        </tr>
+        <tr class="MoonRow">
+            <td>⯉I</td>
+            <td>Triton (Neptune I) (Alternate)</td>
+            <td>⯉I</td>
+            <td>2BC9-49</td>
+        </tr>
+        <tr class="DwarfPlanetRow">
+            <td>🝿</td>
+            <td>Orcus</td>
+            <td>🝿</td>
+            <td>1F77F</td>
+        </tr>
+        <tr class="DwarfPlanetRow">
+            <td>♇</td>
+            <td>Pluto</td>
+            <td>♇</td>
+            <td>2647</td>
+        </tr>
+        <tr class="MoonRow">
+            <td>♇I</td>
+            <td>Charon (Pluto I)</td>
+            <td>♇I</td>
+            <td>2647-49</td>
+        </tr>
+        <tr class="MoonRow">
+            <td>♇V</td>
+            <td>Styx (Pluto V)</td>
+            <td>♇V</td>
+            <td>2647-56</td>
+        </tr>
+        <tr class="MoonRow">
+            <td>♇II</td>
+            <td>Nix (Pluto II)</td>
+            <td>♇II</td>
+            <td>2647-49-49</td>
+        </tr>
+        <tr class="MoonRow">
+            <td>♇IV</td>
+            <td>Kerberos (Pluto IV)</td>
+            <td>♇IV</td>
+            <td>2647-49-56</td>
+        </tr>
+        <tr class="MoonRow">
+            <td>♇III</td>
+            <td>Hydra (Pluto III)</td>
+            <td>♇III</td>
+            <td>2647-49-49-49</td>
+        </tr>
+        <tr class="DwarfPlanetRow">
+            <td>🝻</td>
+            <td>Haumea</td>
+            <td>🝻</td>
+            <td>1F77B</td>
+        </tr>
+        <tr class="DwarfPlanetRow">
+            <td>🝾</td>
+            <td>Quaoar</td>
+            <td>🝾</td>
+            <td>1F77E</td>
+        </tr>
+        <tr class="DwarfPlanetRow">
+            <td>🝼</td>
+            <td>Makemake</td>
+            <td>🝼</td>
+            <td>1F77C</td>
+        </tr>
+        <tr class="DwarfPlanetRow">
+            <td>🝽</td>
+            <td>Gonggong</td>
+            <td>🝽</td>
+            <td>1F77D</td>
+        </tr>
+        <tr class="DwarfPlanetRow">
+            <td>⯰</td>
+            <td>Eris</td>
+            <td>⯰</td>
+            <td>2BF0</td>
+        </tr>
+        <tr class="MoonRow">
+            <td>⯰I</td>
+            <td>Dysnomia (Eris I)</td>
+            <td>⯰I</td>
+            <td>2BF0-49</td>
+        </tr>
+        <tr class="DwarfPlanetRow">
+            <td>⯲</td>
+            <td>Sedna</td>
+            <td>⯲</td>
+            <td>2BF2</td>
+        </tr>
+        <tr class="LetterRow">
+            <td>I</td>
+            <td>Capital Letter I (for ligatures)</td>
+            <td>I</td>
+            <td>49</td>
+        </tr>
+        <tr class="LetterRow">
+            <td>V</td>
+            <td>Capital Letter I (for ligatures)</td>
+            <td>V</td>
+            <td>56</td>
+        </tr>
+    </tbody>
+</table>
+
+
+
+
+<br>
+
 <textarea class="astro" style="height: 16em; width: 30em;">
 IIIIIIIVVVIVIIVIII90VI
 A☿♀🜨♂♃♄♅♆♇⯉⛢
@@ -38,210 +439,7 @@ A☿♀🜨♂♃♄♅♆♇⯉⛢
 ⯓⯔⯕⯖⯱ ⚳⚴⚵⚶
 </textarea>
 
-
-
-<table class="astrotable">
-    <thead>
-    <tr>
-        <th>Symbol</th>
-        <th>Ligature</th>
-        <th>Object Name</th>
-        <th>Symbol Author</th>
-    </tr>
-    </thead>
-    <tbody>
-        <tr>
-            <td>♂</td>
-            <td>♂</td>
-            <td>Mars</td>
-            <td>Classical</td>
-        </tr>
-        <tr>
-            <td>♂I</td>
-            <td>♂I</td>
-            <td>Phobos</td>
-            <td>Denis Moskowitz</td>
-        </tr>
-        <tr>
-            <td>♂II</td>
-            <td>♂II</td>
-            <td>Deimos</td>
-            <td>Denis Moskowitz</td>
-        </tr>
-        <tr>
-            <td>♃</td>
-            <td>♃</td>
-            <td>Jupiter</td>
-            <td>Denis Moskowitz</td>
-        </tr>
-        <tr>
-            <td>♃I</td>
-            <td>♃I</td>
-            <td>Io</td>
-            <td>Denis Moskowitz</td>
-        </tr>
-        <tr>
-            <td>♃II</td>
-            <td>♃II</td>
-            <td>Europa</td>
-            <td>Robert Winslow</td>
-        </tr>
-        <tr>
-            <td>♃III</td>
-            <td>♃III</td>
-            <td>Ganymede</td>
-            <td>Robert Winslow</td>
-        </tr>
-        <tr>
-            <td>♃IV</td>
-            <td>♃IV</td>
-            <td>Callisto</td>
-            <td>Robert Winslow</td>
-        </tr>
-        <tr>
-            <td>♄</td>
-            <td>♄</td>
-            <td>Saturn</td>
-            <td>Classical</td>
-        </tr>
-        <tr>
-            <td>♄I</td>
-            <td>♄I</td>
-            <td>Mimas</td>
-            <td>Denis Moskowitz</td>
-        </tr>
-        <tr>
-            <td>♄II</td>
-            <td>♄II</td>
-            <td>Enceladus</td>
-            <td>Denis Moskowitz</td>
-        </tr>
-        <tr>
-            <td>♄III</td>
-            <td>♄III</td>
-            <td>Tethys</td>
-            <td>Denis Moskowitz</td>
-        </tr>
-        <tr>
-            <td>♄IV</td>
-            <td>♄IV</td>
-            <td>Dione</td>
-            <td>Denis Moskowitz</td>
-        </tr>
-        <tr>
-            <td>♄V</td>
-            <td>♄V</td>
-            <td>Rhea</td>
-            <td>Denis Moskowitz</td>
-        </tr>
-        <tr>
-            <td>♄VI</td>
-            <td>♄VI</td>
-            <td>Titan</td>
-            <td>Denis Moskowitz</td>
-        </tr>
-        <tr>
-            <td>♄VII</td>
-            <td>♄VII</td>
-            <td>Hyperion</td>
-            <td>Denis Moskowitz</td>
-        </tr>
-        <tr>
-            <td>♄VIII</td>
-            <td>♄VIII</td>
-            <td>Iapetus</td>
-            <td>Denis Moskowitz</td>
-        </tr>
-        <tr>
-            <td>♅</td>
-            <td>♅</td>
-            <td>Uranus</td>
-            <td>Jerome Lalande*</td>
-        </tr>
-        <tr>
-            <td>♅I</td>
-            <td>♅I</td>
-            <td>Ariel</td>
-            <td>Denis Moskowitz</td>
-        </tr>
-        <tr>
-            <td>♅II</td>
-            <td>♅II</td>
-            <td>Umbriel</td>
-            <td>Denis Moskowitz</td>
-        </tr>
-        <tr>
-            <td>♅III</td>
-            <td>♅III</td>
-            <td>Titania</td>
-            <td>Denis Moskowitz</td>
-        </tr>
-        <tr>
-            <td>♅IV</td>
-            <td>♅IV</td>
-            <td>Oberon</td>
-            <td>Denis Moskowitz</td>
-        </tr>
-        <tr>
-            <td>♅V</td>
-            <td>♅V</td>
-            <td>Miranda</td>
-            <td>Denis Moskowitz</td>
-        </tr>
-        <tr>
-            <td>♆</td>
-            <td>♆</td>
-            <td>Neptune</td>
-            <td>Urbain Le Verrier*</td>
-        </tr>
-        <tr>
-            <td>♆I</td>
-            <td>♆I</td>
-            <td>Triton</td>
-            <td>Denis Moskowitz</td>
-        </tr>
-        <tr>
-            <td>♇</td>
-            <td>♇</td>
-            <td>Pluto</td>
-            <td>Denis Moskowitz</td>
-        </tr>
-        <tr>
-            <td>♇I</td>
-            <td>♇I</td>
-            <td>Charon</td>
-            <td>Denis Moskowitz</td>
-        </tr>
-    </tbody>
-</table>
-
-*Need to double check.
-
-<div>
-    ♂ ♂1 ♂2 <br>
-    ♃ ♃1 ♃2 ♃3 ♃4 <br>
-    ♄ ♄1 ♄2 ♄3 ♄4 ♄5 ♄6 ♄7 ♄8 ♄9  <br>
-    ♅ ♅1 ♅2 ♅3 ♅4 ♅5 ♅6  <br>
-    ⛢ ⛢1 ⛢2 ⛢3 ⛢4 ⛢5 ⛢6  <br>
-    ♆ ♆1 <br>
-    ♇ ♇1 <br>
-</div>
-
-
-<br><br>
-
-<div class="astro">
-    ♂♂1♂2 <br>
-    ♃♃1♃2♃3♃4ABC<br>
-    ♄♄1♄2♄3♄4♄5♄6♄7♄8♄9  <br>
-    ♅♅1♅2♅3♅4♅5♅6  <br>
-    ⛢⛢1⛢2⛢3⛢4⛢5⛢6  <br>
-    ♆♆1 <br>
-    ⯉<br>
-    ♇♇1 <br>
-</div>
-
-There are two different ligatures for the moons of Uranus, using either ♅ or ⛢.
+<p> There are two different ligatures for the moons of Uranus, using either ♅ or ⛢.
 EG, both "♅II" and "⛢II" will render as the symbol for Umbriel in this font.
 
 

@@ -22,14 +22,14 @@ import fontforge
 import os
 
 INPUTFOLDER = 'svg'
-OUTPUTFILENAME = 'Astrosymbols Sans.ttf'
+OUTPUTFILENAME = 'Astromoony Sans.ttf'
 PLACEHOLDERGEOMETRYSVG = 'svg/25A1.svg'
 
 font = fontforge.font()
-font.familyname = "Astrosymbols"
+font.familyname = "Astromoony"
 font.fullname = font.familyname + " Sans"
 font.copyright = "Public Domain Font Created 2022 by Robert Martin Winslow" #eg Copyright (c) 2022 Name
-font.version = "0.2"
+font.version = "1.0"
 
 # The following variables are for scaling the imported outlines.
 SVGHEIGHT = 10 # units of height of source svg viewbox.
@@ -37,10 +37,10 @@ GLYPHHEIGHT = 1000 # font units, default = 1000
 PORTIONABOVEBASELINE = 0.8 # default is 0.8
 # The following parameter sets the spacing between characters. 
 # It is made redundant by MONOSPACEWIDTH if that parameter is set.
-SEPARATION = 50
+SEPARATION = 100
 # If the following parameter is set to a positive integer, all characters are set to that width.
 # Set it to 0 or None to make the font non-monospaced.
-MONOSPACEWIDTH = 0
+MONOSPACEWIDTH = 1000
 # If the following parameter is set to a positive integer, all characters wider than this are scaled down.
 # Set it to 0 or None to allow characters to be extra wide.
 # If MAXWIDTH is unset, but MONOSPACEWIDTH is set, then some glyphs may have contours outside of their bounding box.
@@ -56,7 +56,7 @@ MAXWIDTH = 0
 #%% SECTION TWO A - Define function for importing outlines.
 
 def importAndCleanOutlines(outlinefile,glyph):
-    #print(outlinefile)
+    #print(outlinefile, glyph)
     glyph.importOutlines(outlinefile, simplify=True, correctdir=False, accuracy=0.01, scale=False)
     glyph.removeOverlap()
     SCALEFACTOR = GLYPHHEIGHT/SVGHEIGHT
@@ -107,6 +107,7 @@ combocharacters = [(codepoints,filename) for codepoints,filename in codetuples i
 # Imports glyphs for all the non-skintone combination characters. 
 for codepoints,filename in combocharacters:
     components = tuple('u'+codepoint for codepoint in codepoints)
+    #print(components)
     char = font.createChar(-1, '_'.join(components))
     char.addPosSub("mySubtable", components)
     importAndCleanOutlines(INPUTFOLDER+'/'+filename,char)

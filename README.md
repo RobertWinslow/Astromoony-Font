@@ -1,4 +1,4 @@
-# Astromoony
+# Astromoony Font
 
 A simple font that encodes astronomical symbols, both official and unofficial.
 
@@ -7,9 +7,10 @@ For example, "♂I" renders as a single symbol for Phobos (Mars I),
 and "♄VI" renders as a single symbol for Titan (Saturn VI)
 
 The characters
-The serif version uses is a modification of the Public Domain [Quivira font](http://quivira-font.com/)
 
 ## Downloads
+
+[Astromoony 1.0](/sans-serif/Astromoony Sans.ttf)
 
 
 ## Current Symbol Coverage
@@ -28,3 +29,28 @@ The serif version uses is a modification of the Public Domain [Quivira font](htt
 ## License
 
 All vectors and fonts in this repo are in the public domain.
+
+
+## Credits
+
+### Glyphs
+
+The sans-serif glyphs are all made by me, 
+though I have attempted to make them stylistically similar to the characters in Alexander Lange's [Catrinity font](https://catrinity-font.de/index.html).
+
+
+The serif version uses modified glyphs of Alexander Lange's Public Domain [Quivira font](http://quivira-font.com/).
+
+
+
+## Glyph Designs
+
+The designs for the Sun, Earth's Moon, Major Planets, Pluto, Ceres, and Asteroids are all fairly old and in wide use.
+
+The symbols for the other moons and dwarf planets are [modern designs by Denis Moskowitz](https://suberic.net/~dmm/astro/),
+though I have substantially modified the designs for Europa, Ganymede, Callisto, Kerberos, and Orcus.
+
+
+
+
+
