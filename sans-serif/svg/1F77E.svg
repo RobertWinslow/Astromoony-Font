@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   version="1.1"
+   viewBox="0 0 10 10"
+   id="svg10"
+   sodipodi:docname="1F77E.svg"
+   inkscape:version="1.1.2 (b8e25be833, 2022-02-05)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs14" />
+  <sodipodi:namedview
+     id="namedview12"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     inkscape:lockguides="true"
+     inkscape:zoom="64"
+     inkscape:cx="7.03125"
+     inkscape:cy="5.9296875"
+     inkscape:current-layer="g8"
+     showguides="false" />
+  <g
+     transform="matrix(.82 0 0 .82333 .08 .06)"
+     stroke-linejoin="round"
+     stroke-miterlimit="10"
+     id="g8">
+    <path
+       id="rect929"
+       style="fill:none;stroke:#808000;stroke-width:0.973638;stroke-linecap:square;stroke-linejoin:miter;paint-order:stroke fill markers"
+       transform="matrix(0.70853819,0.70567247,-0.70853819,0.70567247,0,0)"
+       d="m 10.580281,2.1121418 -5.0504434,0 v -5.0504431 l 5.0504434,0"
+       sodipodi:nodetypes="cccc" />
+    <path
+       id="path1959"
+       style="fill:none;stroke:#bdb76b;stroke-width:0.973637;stroke-linecap:round;stroke-linejoin:miter;paint-order:stroke fill markers"
+       d="m 6.5404484,5.9309971 1.9064258,0.6104594 0.68055,1.9660534 -1.974038,-0.6777978 z"
+       sodipodi:nodetypes="ccccc" />
+    <path
+       style="fill:none;stroke:#ff0000;stroke-width:0.973635;stroke-linecap:square;stroke-linejoin:miter;paint-order:stroke fill markers"
+       d="M 6,8.9566932 7.1533862,7.8297121"
+       id="path2449"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#ff0000;stroke-width:0.973635;stroke-linecap:square;stroke-linejoin:miter;paint-order:stroke fill markers"
+       d="M 8.4468742,6.5414565 9.5784318,5.3927347"
+       id="path2449-6"
+       sodipodi:nodetypes="cc" />
+  </g>
+</svg>
