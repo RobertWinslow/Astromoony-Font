@@ -22,12 +22,12 @@ import fontforge
 import os
 
 INPUTFOLDER = 'svg'
-OUTPUTFILENAME = 'astrosymbols.ttf'
+OUTPUTFILENAME = 'AstromoonySerif.ttf'
 PLACEHOLDERGEOMETRYSVG = 'svg/25A1.svg'
 
 font = fontforge.font()
-font.familyname = "Astrosymbols"
-font.fullname = font.familyname + " Black Regular"
+font.familyname = "Astromoony"
+font.fullname = font.familyname + " Serif"
 font.copyright = "Public Domain Font Created 2022 by Robert Martin Winslow" #eg Copyright (c) 2022 Name
 font.version = "0.1"
 
@@ -40,7 +40,7 @@ PORTIONABOVEBASELINE = 0.8 # default is 0.8
 SEPARATION = 100
 # If the following parameter is set to a positive integer, all characters are set to that width.
 # Set it to 0 or None to make the font non-monospaced.
-MONOSPACEWIDTH = 0
+MONOSPACEWIDTH = 1000
 # If the following parameter is set to a positive integer, all characters wider than this are scaled down.
 # Set it to 0 or None to allow characters to be extra wide.
 # If MAXWIDTH is unset, but MONOSPACEWIDTH is set, then some glyphs may have contours outside of their bounding box.
