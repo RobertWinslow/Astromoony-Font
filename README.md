@@ -6,11 +6,11 @@ Most notably, symbols for major moons are implemented as ligatures.
 For example, "♂I" renders as a single symbol for Phobos (Mars I), 
 and "♄VI" renders as a single symbol for Titan (Saturn VI)
 
-The characters
+[The characters can be preview at this webpage](https://www.rmwinslow.com/posts/nature/astrofont.html).
 
 ## Downloads
 
-[Astromoony Sans-serif 1.0](https://github.com/RobertWinslow/Astromoony-Font/blob/main/sans-serif/Astromoony%20Sans.ttf)
+[Astromoony Sans-serif 1.0](https://github.com/RobertWinslow/Astromoony-Font/blob/main/sans-serif/AstromoonySans.ttf?raw=true)
 
 
 ## Current Symbol Coverage
