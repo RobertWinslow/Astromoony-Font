@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   version="1.1"
+   viewBox="0 0 10 10"
+   id="svg10"
+   sodipodi:docname="2BD3-49.svg"
+   inkscape:version="1.3.2 (091e20ef0f, 2023-11-25)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs14" />
+  <sodipodi:namedview
+     id="namedview12"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     inkscape:lockguides="true"
+     inkscape:zoom="64"
+     inkscape:cx="-1.0234375"
+     inkscape:cy="8.4609375"
+     inkscape:current-layer="g8"
+     inkscape:showpageshadow="2"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:window-width="2560"
+     inkscape:window-height="1371"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     showguides="true">
+    <sodipodi:guide
+       position="4.6008111,2"
+       orientation="0,-1"
+       id="guide1"
+       inkscape:locked="true" />
+    <sodipodi:guide
+       position="5.1154756,5.0093286"
+       orientation="0,-1"
+       id="guide2"
+       inkscape:locked="true" />
+  </sodipodi:namedview>
+  <g
+     transform="matrix(.82 0 0 .82333 .08 .06)"
+     stroke-linejoin="round"
+     stroke-miterlimit="10"
+     id="g8">
+    <path
+       d="M 6,9.6437638 V 4.9059171"
+       fill="#bdb76b"
+       stroke="#ff0000"
+       stroke-width="0.973629"
+       id="path2" />
+    <path
+       style="fill:none;stroke:#ff6347;stroke-width:0.973635;stroke-linejoin:round;stroke-miterlimit:7;stroke-dasharray:none;paint-order:stroke fill markers"
+       d="m 2.8292686,9.6466456 v -3.157908 l 6.3414629,2.672076 v -3.157908"
+       id="path1333"
+       sodipodi:nodetypes="cccc" />
+    <path
+       d="m 2.8282786,1.7489949 c 0,1.7428735 1.4206775,3.156922 3.1717216,3.156922 1.7510441,0 3.1717212,-1.4140485 3.1717212,-3.156922"
+       fill="none"
+       stroke="#ff8c00"
+       stroke-linecap="square"
+       stroke-width="0.973627"
+       id="path6-2"
+       style="stroke:#4169e1;stroke-width:0.973637;stroke-linecap:butt;stroke-dasharray:none" />
+    <ellipse
+       style="fill:none;fill-opacity:1;stroke:#183899;stroke-width:0.973642;stroke-dasharray:none;stroke-opacity:1"
+       id="path5"
+       cx="6"
+       cy="1.6275369"
+       rx="1.2204961"
+       ry="1.2135907" />
+  </g>
+</svg>
