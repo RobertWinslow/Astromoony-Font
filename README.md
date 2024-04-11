@@ -15,10 +15,10 @@ and "♄VI" renders as a single symbol for Titan (Saturn VI)
 
 ## Current Symbol Coverage
 
-| Feature | Serif | Sans |
+| Feature | Sans Serif | Serif |
 |:--------|:-:|:-:|
-| Sun and Major Planets | ✔ | |
-| Moons of Major Planets | ✔ | |
+| Sun and Major Planets | ✔ | ✔ |
+| Moons of Major Planets | ✔ | Partial |
 | Dwarf Planets | ✔ | |
 | Moons of Dwarf Planets | Partial | |
 | Asteroids and Trojans | Partial | |
