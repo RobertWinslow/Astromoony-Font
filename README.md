@@ -10,12 +10,12 @@ and "♄VI" renders as a single symbol for Titan (Saturn VI)
 
 ## Downloads
 
-[Astromoony Sans-serif 1.0](https://github.com/RobertWinslow/Astromoony-Font/blob/main/sans-serif/AstromoonySans.ttf?raw=true)
+[Astromoony Sans-serif 1.1](https://github.com/RobertWinslow/Astromoony-Font/blob/main/sans-serif/AstromoonySans.ttf?raw=true)
 
 
 ## Current Symbol Coverage
 
-| Feature | Sans Serif | Serif |
+| Feature | Sans-serif | Serif |
 |:--------|:-:|:-:|
 | Sun and Major Planets | ✔ | ✔ |
 | Moons of Major Planets | ✔ | Partial |

@@ -29,7 +29,7 @@ font = fontforge.font()
 font.familyname = "Astromoony"
 font.fullname = font.familyname + " Sans"
 font.copyright = "Public Domain Font Created 2022 by Robert Martin Winslow" #eg Copyright (c) 2022 Name
-font.version = "1.0"
+font.version = "1.1"
 
 # The following variables are for scaling the imported outlines.
 SVGHEIGHT = 10 # units of height of source svg viewbox.
