@@ -35,11 +35,13 @@ All vectors and fonts in this repo are in the public domain.
 
 ### Glyphs
 
-The sans-serif glyphs are all made by me, 
+The sans-serif glyphs are made specifically for this repository, 
 though I have attempted to make them stylistically similar to the characters in Alexander Lange's [Catrinity font](https://catrinity-font.de/index.html).
+Thanks to Tau Gärtli for contributing some alternate glyphs for Pluto and its moons.
 
 
 The serif version uses modified glyphs of Alexander Lange's Public Domain [Quivira font](http://quivira-font.com/).
+
 
 
 
