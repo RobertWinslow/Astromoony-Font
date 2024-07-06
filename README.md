@@ -30,6 +30,8 @@ and "♄VI" renders as a single symbol for Titan (Saturn VI)
 
 All vectors and fonts in this repo are in the public domain.
 
+The little script used to build the fonts [comes from here](https://github.com/RobertWinslow/Simple-SVG-to-Font-with-Fontforge), and may be modified/redistributed with attribution.
+
 
 ## Credits
 
