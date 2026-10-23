@@ -58,3 +58,15 @@ though I have substantially modified the designs for Europa, Ganymede, Callisto,
 
 
 
+## Private Use Area Assignments
+
+These symbols have no Unicode codepoint, so this fork maps them into the Private Use Area. They display only in this font. Codes are assigned in minor-planet-number order and are append-only: a code is never renumbered or reused.
+
+| Codepoint | Object | Design |
+|:--|:--|:--|
+| U+E000 | 19521 Chaos | Michael Moorcock's Symbol of Chaos |
+| U+E001 | 20000 Varuna | Denis Moskowitz |
+| U+E002 | 28978 Ixion | After Sandy Turnbull's I-and-X design |
+| U+E003 | 120347 Salacia | Denis Moskowitz and Kirk Miller (Roman S) |
+| U+E004 | 174567 Varda | Zane Stein |
+| U+E005 | 229762 Gǃkúnǁʼhòmdímà | Aardvark head, designer unknown |
