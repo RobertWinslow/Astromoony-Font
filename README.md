@@ -21,7 +21,7 @@ and "♄VI" renders as a single symbol for Titan (Saturn VI)
 | Moons of Major Planets | ✔ | Partial |
 | Dwarf Planets | ✔ | |
 | Moons of Dwarf Planets | ✔ | |
-| Asteroids and Trojans | Partial | |
+| Asteroids and Trojans | Mostly Complete | |
 | Various Alternate Symbols | ✔ |
 | Miscellaneous Astrology | |
 
@@ -40,6 +40,7 @@ The little script used to build the fonts [comes from here](https://github.com/R
 The sans-serif glyphs are made specifically for this repository, 
 though I have attempted to make them stylistically similar to the characters in Alexander Lange's [Catrinity font](https://catrinity-font.de/index.html).
 Thanks to Tau Gärtli for contributing some alternate glyphs for Pluto and its moons.
+And thanks to Shane R. Bianchini for contributing vector conversions of unicode 17 asteroid symbols. 
 
 
 The serif version uses modified glyphs of Alexander Lange's Public Domain [Quivira font](http://quivira-font.com/).
@@ -57,10 +58,9 @@ though I have substantially modified the designs for Europa, Ganymede, Callisto,
 
 
 
-
 ## Private Use Area Assignments
 
-These symbols have no Unicode codepoint, so this fork maps them into the Private Use Area. They display only in this font. Codes are assigned in minor-planet-number order and are append-only: a code is never renumbered or reused.
+These symbols have no Unicode codepoint, so this font maps them into the Private Use Area. They display only in this font. Codes are assigned in minor-planet-number order and are append-only: a code is never renumbered or reused.
 
 | Codepoint | Object | Design |
 |:--|:--|:--|
